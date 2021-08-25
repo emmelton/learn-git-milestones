@@ -122,12 +122,12 @@ You should be able to ...
 	- [x] Connect your Github account in Atom
 - [x] Install [Github Desktop](https://desktop.github.com/)
 	- [x] Connect your Github account in Github Desktop
-	- [ ] In Github Desktop, clone the fork (you made above) [learn-git-milestones](https://github.com/omundy/learn-git-milestones) ...
-	- [ ] File > Clone Repository > Github.com and select it ...
-	- [ ] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `<your-class-name-here>`
-	- [ ] Click "Clone" to make a local copy
-- [ ] Open the repo in Atom: Repository > Open in Atom  
-- [ ] ✏️ In Atom, edit this README file and add your *second* favorite emoji here: **??**
+	- [x] In Github Desktop, clone the fork (you made above) [learn-git-milestones](https://github.com/omundy/learn-git-milestones) ...
+	- [x] File > Clone Repository > Github.com and select it ...
+	- [x] Local Path: Click "Choose" and add a new folder on your computer. This will be the base folder for your work in this class: `<your-class-name-here>`
+	- [x] Click "Clone" to make a local copy
+- [x] Open the repo in Atom: Repository > Open in Atom  
+- [x] ✏️ In Atom, edit this README file and add your *second* favorite emoji here: **🥰**
 - [ ] In Github Desktop, view/confirm your edits to the README file on the Changes tab
 - [ ] ✏️ Commit your changes directly to the main branch with the message `commit #2 from Github Desktop`
 - [ ] Click Push origin to push your new commit to remote repo  
@@ -138,7 +138,7 @@ You should be able to ...
 ### Command line interface (CLI)
 You should have a basic familiarity with the command line to install Git. Some folks use the CLI as their default tool for editing and publishing source code, but Atom makes it much easier.
 
-- [ ] If you haven't yet, complete the [command line crash course](https://github.com/omundy/learn-computing/blob/main/topics-command-line.md#crash-course)
+- [x] If you haven't yet, complete the [command line crash course](https://github.com/omundy/learn-computing/blob/main/topics-command-line.md#crash-course)
 - [ ] In Github Desktop, with the [learn-git-milestones](https://github.com/omundy/learn-git-milestones) repo you cloned above selected, click Repository > Open in Terminal ("Bash" in Windows?)
 - [ ] Use the CLI to navigate directories  
   - [ ] List files in this directory: `ls`
