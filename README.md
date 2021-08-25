@@ -155,7 +155,7 @@ You should have a basic familiarity with the command line to install Git. Some f
 
 ##I cannot figure how to commit from CLI because it is saying there is nothing to commit here.
 
-  - [] ✏️ Commit your changes with the message `commit #3 from CLI`
+  - [x] ✏️ Commit your changes with the message `commit #3 from CLI`
   - [x] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
 
 
@@ -178,7 +178,7 @@ git touch "hello.txt"
 
 - [x] Select on your file(s) in Unstaged changes and confirm your changes match what you expect to see
 - [x] Double click on each file with changes to stage them  
-- [ ] ✏️ Commit your changes directly to the main branch with the message `commit #4 from Atom`
+- [x] ✏️ Commit your changes directly to the main branch with the message `commit #4 from Atom`
 
 
 
