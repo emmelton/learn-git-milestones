@@ -206,7 +206,7 @@ git touch "hello.txt"
 ## Create a Github.io page
 Create a github.io site for your repository ...
 
-- [ ] ✏️ Create a file called `index.html` in your new repo and add the following html
+- [x] ✏️ Create a file called `index.html` in your new repo and add the following html
 
 ```html
 <!DOCTYPE html>
@@ -239,10 +239,10 @@ Create a github.io site for your repository ...
 ## Turn in this Assignment
 Now that we have basic Git commands out of the way use Git to create and turn in your assignment ...
 
-- [ ] Complete all of the items on this README
-- [ ] Test your file(s) in a web browser
-- [ ] Commit and push the files to Github
-- [ ] Paste the github.io link into the appropriate Moodle forum
+- [x] Complete all of the items on this README
+- [x] Test your file(s) in a web browser
+- [x] Commit and push the files to Github
+- [x] Paste the github.io link into the appropriate Moodle forum
 
 
 
