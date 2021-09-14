@@ -185,20 +185,20 @@ git touch "hello.txt"
 
 ## Create a new repository
 
-- [ ] Create a repository from scratch
-  - [ ] ✏️ In Github Desktop, create a new repository with the name: `my-awesome-project`
-  - [ ] Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<your-class-name-here>` folder you made above
-  - [ ] Click Create Repository
-  - [ ] This should now be your class folder's directory structure.
+- [x] Create a repository from scratch
+  - [x] ✏️ In Github Desktop, create a new repository with the name: `my-awesome-project`
+  - [x] Local Path: Click "Choose" and create a new folder `my-awesome-project` inside the `<your-class-name-here>` folder you made above
+  - [x] Click Create Repository
+  - [x] This should now be your class folder's directory structure.
   ```
   <your-class-name-here>
     |-- my-awesome-project
     |-- learn-git-milestones
   ```
-  - [ ] Open your new repository in Atom (with Github Desktop or drag the `my-awesome-project` project folder onto the Atom icon in your dock)
-  - [ ] ✏️ Add a README file: `README.md`
-  - [ ] ✏️ In the README write your name and the date
-  - [ ] ✏️ Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+  - [x] Open your new repository in Atom (with Github Desktop or drag the `my-awesome-project` project folder onto the Atom icon in your dock)
+  - [x] ✏️ Add a README file: `README.md`
+  - [x] ✏️ In the README write your name and the date
+  - [x] ✏️ Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 
 
@@ -223,13 +223,13 @@ Create a github.io site for your repository ...
 </html>
 ```
 
-- [ ] Set up a [Github page](https://pages.github.com/) "project site" for your repo
-  - [ ] On Github.com, go to your repo > Settings, and scroll down to the Github Pages section
-  - [ ] Select the main branch source and click save
-  - [ ] Do not use a theme. Start from scratch
-  - [ ] Visit your project site at http://*username*.github.io/my-awesome-project
-  - [ ] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
-  - [ ] ✏️ Paste this link here:
+- [x] Set up a [Github page](https://pages.github.com/) "project site" for your repo
+  - [x] On Github.com, go to your repo > Settings, and scroll down to the Github Pages section
+  - [x] Select the main branch source and click save
+  - [x] Do not use a theme. Start from scratch
+  - [x] Visit your project site at http://*username*.github.io/my-awesome-project
+  - [x] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
+  - [x] ✏️ Paste this link here: [My Site](https://emmelton.github.io/my-awesome-project/)
 
 
 
