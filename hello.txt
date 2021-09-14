@@ -1,0 +1,4 @@
+I started git-milestones 20 days ago. I should have finished it then because
+now I am just confused trying to make sure I've done it all.
+
+But I am figuring it out and am almost done which is exciting. Yay git-milestones!
