@@ -229,7 +229,7 @@ Create a github.io site for your repository ...
   - [x] Do not use a theme. Start from scratch
   - [x] Visit your project site at http://*username*.github.io/my-awesome-project
   - [x] Update your project, push a new commit, and confirm your updates (note: [changes are not always instant](https://github.com/omundy/dig245-a1/deployments/activity_log?environment=github-pages))
-  - [x] ✏️ Paste this link here: [My Site](https://emmelton.github.io/my-awesome-project/)
+  - [x] ✏️ Paste this link here: [My Site](https://emmelton.github.io/my-awesome-project/) [My Git Repo for the site](https://github.com/emmelton/my-awesome-project)
 
 
 
